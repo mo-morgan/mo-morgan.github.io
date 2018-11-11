@@ -4,3 +4,7 @@
     bottom: 20px;
     right: 20px;
 }
+
+.icon-java {
+    background-image: url("../res/skills/java.png");
+}

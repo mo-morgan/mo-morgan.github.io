@@ -8,3 +8,9 @@
 .icon-java {
     background-image: url("../res/skills/java.png");
 }
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}

@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ef874ef-72bd-473d-b084-19cd891e9c9f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="8ef874ef-72bd-473d-b084-19cd891e9c9f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -62,7 +59,7 @@
     <session id="941434064">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.40" value="1" />
@@ -102,8 +99,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="235" column="44" selection-start-line="235" selection-start-column="44" selection-end-line="235" selection-end-column="44" />
+            <state relative-caret-position="175">
+              <caret line="230" column="32" lean-forward="true" selection-start-line="230" selection-start-column="32" selection-end-line="230" selection-end-column="32" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -194,7 +191,7 @@
       <path value="$PROJECT_DIR$/vendor/fontawesome-free/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="33" />
     <option name="y" value="-15" />
     <option name="width" value="1346" />
@@ -330,7 +327,7 @@
       <workItem from="1542517796686" duration="617000" />
       <workItem from="1543697586894" duration="624000" />
       <workItem from="1543709252183" duration="3336000" />
-      <workItem from="1543792616557" duration="658000" />
+      <workItem from="1543792616557" duration="724000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1536970830633</created>
@@ -343,11 +340,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45090000" />
+    <option name="totallyTimeSpent" value="45156000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -400,8 +396,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="235" column="44" selection-start-line="235" selection-start-column="44" selection-end-line="235" selection-end-column="44" />
+        <state relative-caret-position="175">
+          <caret line="230" column="32" lean-forward="true" selection-start-line="230" selection-start-column="32" selection-end-line="230" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>

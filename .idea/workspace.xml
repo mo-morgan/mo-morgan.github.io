@@ -127,7 +127,8 @@
       <workItem from="1558982466402" duration="803000" />
       <workItem from="1562470104910" duration="656000" />
       <workItem from="1563524215913" duration="2169000" />
-      <workItem from="1573019579613" duration="1628000" />
+      <workItem from="1573019579613" duration="2218000" />
+      <workItem from="1573725286821" duration="997000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1536970830633</created>
@@ -147,7 +148,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

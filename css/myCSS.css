@@ -14,3 +14,9 @@ img {
     max-width: 100%;
     height: auto;
 }
+
+.p-label {position: absolute;left: -50px;width: 50px;text-align: right;}
+.no-italics {
+    font-style: normal;   
+}
+.bg-darkgreen {background-color: #006400;}

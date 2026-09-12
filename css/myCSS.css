@@ -20,3 +20,19 @@ img {
     font-style: normal;   
 }
 .bg-darkgreen {background-color: #006400;}
+
+/* Square crop so rounded-circle is a true circle; keep the subject (left of frame) in view */
+.about-pfp {
+    width: 100%;
+    max-width: 400px;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    object-position: left center;
+    margin: 0 auto;
+}
+@media (max-width: 991.98px) {
+    .about-pfp {
+        max-width: 280px;
+        margin-bottom: 2rem;
+    }
+}
